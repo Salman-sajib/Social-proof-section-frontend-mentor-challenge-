@@ -93,7 +93,7 @@ body {
 /* ==========  Typography  =========== */
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   font-weight: 700;
   line-height: 1.1;
 }
@@ -147,7 +147,7 @@ p {
 }
 
 .title {
-  max-width: 15rem;
+  max-width: 20rem;
   color: var(--clr-primary-very-dark-magenta);
   margin-bottom: 0.5em;
 }
